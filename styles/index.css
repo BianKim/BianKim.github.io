@@ -13,27 +13,27 @@
 /* 색 변수 모음 */
 :root {
   /* 전체 배경 */
-  --body-bg: #f6e4e4;
+  --body-bg: hsl(229, 100%, 92%);
 
   
   /* 상단 바 */
   /* 상단 바 배경 색 */
   --header-bg: var(--body-bg);
   /* 상단 바 글자 색 */
-  --header-font: #000108;
+  --header-font: #000000;
 
   /* 상단 배너 */
   /* 상단 배너 배경 색 */
   /* --top-banner-bg: var(--body-bg); */
-  --top-banner-bg: #140250;
+  --top-banner-bg: #8f7df4;
   /* 상단 배너 글자 색 */
   --top-banner-font: #ffffff;
 
   /* 빅 버튼 */
   /* 빅 버튼 배경 색 */
-  --cta-button-bg: #3b394c;
+  --cta-button-bg: #e7cdfd;
   /* 빅 버튼 글자 색 */
-  --cta-button-font: #ffffff;
+  --cta-button-font: #111010;
 
   /* 상단 배너 버튼 */
   /* 상단 배너 버튼 배경 색 */
@@ -57,7 +57,7 @@
   /* 카드 제목 색 */
   --section-card-title-font: #000000;
   /* 카드 설명 색 */
-  --section-card-subtitle-font: #737373;
+  --section-card-subtitle-font: #111111;
   
   /* Service */
   /* 배경 색 */
