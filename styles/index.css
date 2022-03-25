@@ -13,24 +13,25 @@
 /* 색 변수 모음 */
 :root {
   /* 전체 배경 */
-  --body-bg: #ffffff;
+  --body-bg: #AFC2FF;
 
+  
   /* 상단 바 */
   /* 상단 바 배경 색 */
   --header-bg: var(--body-bg);
   /* 상단 바 글자 색 */
-  --header-font: #000000;
+  --header-font: #01030e;
 
   /* 상단 배너 */
   /* 상단 배너 배경 색 */
   /* --top-banner-bg: var(--body-bg); */
-  --top-banner-bg: #000000;
+  --top-banner-bg: #485fd3;
   /* 상단 배너 글자 색 */
   --top-banner-font: #ffffff;
 
   /* 빅 버튼 */
   /* 빅 버튼 배경 색 */
-  --cta-button-bg: #01c0e2;
+  --cta-button-bg: #3d93f5;
   /* 빅 버튼 글자 색 */
   --cta-button-font: #ffffff;
 
@@ -335,7 +336,7 @@ nav {
 
 .card__image {
   width: 100%;
-  height: 230px;
+  height: 573.74px;
   object-fit: cover;
   border-radius: 4px;
   margin-bottom: 13px;
